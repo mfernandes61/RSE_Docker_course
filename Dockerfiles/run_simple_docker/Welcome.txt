@@ -1,0 +1,6 @@
+Welcome to this simple Docker container
+Your first exploratory step into the world of Docker!
+
+Have fun!
+
+Mark F.
